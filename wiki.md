@@ -201,21 +201,34 @@ Not only are management & leadership very different in the real world, but no de
 
 # Education
 
-* Do **not** include coursework unless the courses are **extremely specialized** or **really cool** like Underwater Autonomous Robotics
-* Don't include your high school
-* Don't include schools from which you did not receive a degree
-* Don't include your start dates, only your graduation date. Don't include a date range
+* Don't include your high school.
+* Don't include schools from which you did not receive a degree.
+* Don't include your start date - just your graduation date.
   * If currently a student: **Expected May 2025**
-  * If graduated: **May 2021** or simply **2021**
-* This section should be in reverse chronological order. i.e. your master's degree goes above your bachelor's degree
-* GPA
-  * Generally, if your GPA is above 3.75, put it on your resume
-  * 2 decimal places is sufficient, 3 is overkill
-  * Once you start your first full-time job and your education section is moved to the bottom of your resume, remove your GPA unless it's very impressive
-* On your resume, it's **Bachelor ~~'s~~ of Science** and **Master ~~'s~~ of Science**
-* Don't include your school location if your school has the location in its name i.e. MIT or UCLA or if its location is commonly known
-* Don't include awards/scholarships unless they're extremely impressive, i.e. Rhodes Scholar, Fulbright Scholar
-* Include D1/competitive sports
+  * If graduated: **May 2021** or **2021**
+* Don't include awards/scholarships unless they're extremely impressive, e.g., Rhodes Scholar, Fulbright Scholar.
+* Consider whether to include programs like honors and athletics.
+* If you have multiple degrees, write them in reverse chronological order, with the newest degree at the top.
+* Write your degree as: **Bachelor ~~'s~~ of Science** and **Master ~~'s~~ of Science**, or, alternatively, as **BS in \<degree>**.
+
+
+## Additional Discussion
+
+### Should you include courses?
+
+Courses are generally seen as low value since everyone tends to take the same ones as a part of their major. The general advice is to only include them if you're struggling to fill the space/don't have anything better to put. You might also consider adding them if you're an underclassman who is otherwise ahead in your degree plan.
+
+### Should you include your GPA?
+
+The general advice is to include your GPA if it's above a ~3.4. If you do decide to omit it, be aware that readers might  assume it's a 3.0 or worse regardless.
+
+If you do include it, only put a maximum of two decimals - three is overkill.
+
+Once you start your first full time job, consider removing it unless it's very impressive.
+
+### Should you include your school's location?
+
+If you're international, consider omitting it in order to cut down on bias against foreigners. You may also wish to omit it if it's already evident from the title or already well known, e.g., UCLA or MIT. 
 
 ---
 
