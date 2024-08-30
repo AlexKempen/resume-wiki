@@ -10,9 +10,9 @@ This subreddit is dedicated to helping engineering students and professionals cr
 
 ---
 
-## Introduction
+# Introduction
 
-**What is a resume?**
+## What is a resume?
 
 Your resume is essentially a 30-second elevator pitch on paper, encapsulating your contact information, education, experience, and background. Its purpose is to convince the hiring team to interview you.
 
@@ -24,9 +24,9 @@ For students, it's imperative to use your time in college wisely, engaging in me
 
 ---
 
-## General Rules
+# General Rules
 
-### Make your resume easy to read and skim
+## Make your resume easy to read and skim
 
 1. Use a single-column layout like <https://imgur.com/LC6AS8r>
 2. Avoid icons, images, and graphics.
@@ -41,7 +41,7 @@ For students, it's imperative to use your time in college wisely, engaging in me
 11. One page long, unless you have some 10+ years of experience. The rule of thumb is 1 page per decade of experience.
 12. Separate your skills using **commas** <https://imgur.com/wzvRAfB>
 
-### Make your resume more effective
+## Make your resume more effective
 
 We will dive deeper into this later in the wiki, but generally:
 
@@ -56,7 +56,7 @@ As stated earlier, a resume functions as a 30-second elevator pitch on paper. Th
 2. Increase the amount of white space available so you can include more content that improves your candidacy.
 3. Prevent your resume from being a wall of text that makes it hard to read.
 
-### Keep it to 1 page
+## Keep it to 1 page
 
 A common question we get is why we don’t recommend having multiple pages. Here’s why: 
 
@@ -70,7 +70,7 @@ If you decide to go with a second page, you should be in the position to at leas
 
 ---
 
-## Formatting
+# Formatting
 
 Your resume should be:
 
@@ -106,7 +106,7 @@ Your resume should be:
 
 ---
 
-### Dates
+## Dates
 
 * If currently working at a job or on a project, use the word **Present** instead of ~~**Current**, **Now**~~, or ~~**Ongoing**~~
 * If you choose to include months in addition to years, strictly use them and don't mix in ~~seasons~~ or ~~semesters~~ i.e. **March 2022**, not ~~Winter 2022~~
@@ -195,16 +195,16 @@ Not only are management & leadership very different in the real world, but no de
 
 ---
 
-### Bullet Points
+# Bullet Points
 
-#### Objectives
+## Objectives
 1. Highlight the technical work you did
 2. Highlight technical challenges you faced and overcame
 3. Highlight the impact of your work
 
 ---
 
-#### General Rules
+## General Rules
 
 * Bullet points should be 1-2 lines long. Use [Quillbot](https://quillbot.com/) and [LanguageTool](https://languagetool.org/paraphrasing-tool) to help you [paraphrase and shorten your bullets](https://www.youtube.com/watch?v=VvPaEsuz-tY)
 * Aim for **1** sentence per bullet
@@ -224,7 +224,7 @@ Not only are management & leadership very different in the real world, but no de
 
 ---
 
-#### Action Verbs
+## Action Verbs
 
 * Each bullet should begin with a **strong, past-tense action verb:**  
 https://web.archive.org/web/20240515003325/https://www.engineering.cornell.edu/sites/default/files/users/user240/Action%20Words%20for%20ENG%20(website).pdf
@@ -239,7 +239,7 @@ https://web.archive.org/web/20240515003325/https://www.engineering.cornell.edu/s
 
 ---
 
-#### Each bullet point should follow STAR, XYZ, or CAR
+## Each bullet point should follow STAR, XYZ, or CAR
 
 **STAR:** **S**ituation, **T**ask, **A**ction, and **R**esults
 
@@ -260,13 +260,13 @@ https://web.archive.org/web/20240515003325/https://www.engineering.cornell.edu/s
 
 ---
 
-#### [Sample Bullet Points](https://www.reddit.com/r/EngineeringResumes/w/sample-bullet-points/)
+## [Sample Bullet Points](https://www.reddit.com/r/EngineeringResumes/w/sample-bullet-points/)
 
-#### [Ultimate Guide to Writing Software Engineer Bullet Points](https://archive.ph/Xmdqt)
+## [Ultimate Guide to Writing Software Engineer Bullet Points](https://archive.ph/Xmdqt)
 
 ---
 
-#### Having trouble coming up with content for your bullet points? Ask yourself the following questions:
+## Having trouble coming up with content for your bullet points? Ask yourself the following questions:
 
 **What did I do?** 
  
@@ -288,7 +288,7 @@ https://web.archive.org/web/20240515003325/https://www.engineering.cornell.edu/s
 
 ---
 
-#### Got Writer's Block from Looking at STAR/CAR/XYZ?
+## Got Writer's Block from Looking at STAR/CAR/XYZ?
 
 Here’s a fun exercise I learned from my last supervisor. At the start of every project, you and/or a task lead likely sat down and established the goals you had to meet, right? Ideally, these goals were set up in such a way that you could meet them and solid enough that you had to exert effort to make them happen.
 
@@ -302,7 +302,7 @@ When you're finally satisfied, start paring it down to meet space & content requ
 
 ---
 
-#### Why Integration Matters
+## Why Integration Matters
 
 Don't throw a parts list at the reader. It matters less what specific components and subcomponents you used and more how you integrated all this into whatever your project was aiming to accomplish.
 
@@ -312,7 +312,7 @@ How did your software interface with the stepper motors to complete task X to a 
 
 ---
 
-#### Handling Sensitive Content (or u/graytotoro’s Suggestions on How to Not Get Fired And/Or Sued)
+## Handling Sensitive Content (or u/graytotoro’s Suggestions on How to Not Get Fired And/Or Sued)
 
 You’ve finally decided to move on from that job working on the X-02S Strike Wyvern on behalf of the Erusean Air and Space Agency. In your time on this project, you supported integration efforts for subsystems enabling this airplane to do things the likes of which would make other nations cower in fear.
 
@@ -330,7 +330,7 @@ For a little less silly example, I once worked at a company that made carbon fib
 
 ---
 
-## Education
+# Education
 
 * Do **not** include coursework unless the courses are **extremely specialized** or **really cool** like Underwater Autonomous Robotics
 * Don't include your high school
@@ -350,24 +350,24 @@ For a little less silly example, I once worked at a company that made carbon fib
 
 ---
 
-## Skills
+# Skills
 
 shoutout to u/0ffkilter
 
-### Objective
+## Objective
 
 The purpose of the skills section is to highlight in a few words what technical skills you can bring to the job.  Ideally, these match the job description.  They can also include other technical skills that are related, but perhaps not necessarily in the job description.  If you are applying to a job that's in Java, saying you also know C++ can be useful.  This is not a section to spew every buzzword on every technology you've ever touched.  Find a balance between enough skills (to show you can [wear many hats](https://www.merriam-webster.com/dictionary/wear%20many%20hats)) while not showing too many so that the reader makes it seem like none of them are important.  
 
 This section should simply be named **Skills**, not ~~"Technical Skills", "Relevant Skills”, etc~~
 
 
-#### You Should:
+## You Should:
 
 * Include languages you've used thoroughly and could theoretically interview in.
 * Include technologies (frameworks, tools, and programs) that you've used previously.
 * Repeat things that you use in your bullet points.  If you have Java in your skills, your bullet points in job descriptions should include Java, and vice versa.
 
-#### You Should Not:
+## You Should Not:
 
 * Include soft skills  - don't include things like "teamwork", "leadership", and the like.  Demonstrate via your bullet points and descriptions that you've done these things, not just by listing them out.
 * Include skills that are taken for granted and are assumed (typing, Microsoft Word, IDEs, etc - some of these are fine for other types of jobs, but are generally not useful for engineering)
@@ -376,11 +376,11 @@ This section should simply be named **Skills**, not ~~"Technical Skills", "Relev
       * Operating Systems
       * IDEs or other word editors (VS Code, LaTeX, vim, etc)
 
-### Formatting:
+## Formatting:
 
 Your formatting should be easy to read, easy to digest, and convey what's important and what's simply "there".  Each skill should listed should feel important, and not like fluff.
 
-#### You Should:
+## You Should:
 
 * Use 3 lines or less, in a single column format.
 * Order your skills from most important to least important.
@@ -394,26 +394,26 @@ Your formatting should be easy to read, easy to digest, and convey what's import
   * Separate similar skills if they are functionally different - 
      * Use "C, C++" not "C/C++".  Each skill should be separate, if necessary.  [see more here](https://www.reddit.com/r/EngineeringResumes/wiki/typo)
 
-#### You Should Not:
+## You Should Not:
 
 * Bold random words or use unnecessary formatting.  The _only_ necessary formatting is if the name of the skill is expressly formatted in a way.
 * Use any descriptor when describing your skills.  Do not say "Expert in _ " or "Professional in _".  List the _skill_ only, and use your bullet points to demonstrate your professional abilities.
 * Use multiple columns.  One line, one column per group.  Listing skills vertically takes up too much space.  The highlight of your resume is in the words, and your skill bullet points are only here to get the point across and to be a reference of sorts.  
 
 
-### Should I:
+# Should I:
 
-#### Should I include random hobbies and other things?
+## Should I include random hobbies and other things?
 
 * No.  You may hear about the stories where the interviewer and interviewee share a hobby or passion project on the side unrelated to the job.  That may work every now and then, and it is _acceptable_ (sometimes) to put these on your resume, but the skills section is not the correct area.  You should include that in a subsection, and only if there is nothing better to put on your resume.  
 
-#### Should I include skills that I'm not super comfortable with, if I'm new to the industry?
+## Should I include skills that I'm not super comfortable with, if I'm new to the industry?
 
 * This is a judgement call.  An inexperienced engineer that lists a few skills they've really honed in on can often look better than a new engineer with 10+ skills they've clearly never used in industry.  Find a balance, and try to differentiate what you've used and are experienced with in, and what you've just "touched".
 
 ---
 
-## Projects
+# Projects
 
 This section should be named **Projects**, not ~~Academic/Engineering/Notable/Personal/Relevant/Selected/Technical Projects~~
 
@@ -513,16 +513,16 @@ Only a few people can draw interest from resumes alone. That’s when you need t
 
 ---
 
-## Additional Resources
+# Additional Resources
 
-#### General
+## General
 * [Annotated Resume Examples](https://www.reddit.com/r/EngineeringResumes/comments/p5y5at/)
 * [Resume Critique Videos](https://www.reddit.com/r/EngineeringResumes/comments/j0ujid/)
 * [Engineering a Resume Videos](https://drive.google.com/drive/folders/1LClPBzLDaii0Uu_K0fWSZnhNJsmAqp0_)
 * [How I cut my resume down from 2 pages to 1](https://www.reddit.com/r/EngineeringResumes/comments/kf9r2c/)
 * [Don't be afraid of going over 1 line with a single bullet point!](https://www.reddit.com/r/EngineeringResumes/comments/muazz3/)
 
-#### Software Engineering
+## Software Engineering
 
 * [What we look for in a resume](https://huyenchip.com/2023/01/24/what-we-look-for-in-a-candidate.html)
 * [Ultimate Guide to Writing Software Engineer Bullet Points](https://archive.ph/Xmdqt)
@@ -534,7 +534,7 @@ Only a few people can draw interest from resumes alone. That’s when you need t
 * [HackerNews – Writing a Great Resume](https://www.ycombinator.com/library/FB-writing-a-great-resume)  
 * [HackerNews – Who's Hiring Resume Threads](https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=%09Ask%20HN%3A%20Who%20wants%20to%20be%20hired%3F&sort=byDate&type=ask_hn) – has lots of non-junior software engineering resumes for reference  
 
-#### Applicant Tracking Systems (ATS)
+## Applicant Tracking Systems (ATS)
 
 * [What is an ATS?](https://web.archive.org/web/20240129020408/https://www.recruitinginyogapants.com/2022/08/what-is-an-ats.html)
 * [The Truth About The ATS YouTube Playlist](https://youtube.com/playlist?list=PL6eafD4u4Fa7ko1VrR7dD8i-eRPFfNqip)
