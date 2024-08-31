@@ -93,37 +93,37 @@ Your resume should be:
 
 ---
 
-### [Accessibility](https://uit.stanford.edu/accessibility/concepts/typography)
+## [Accessibility](https://uit.stanford.edu/accessibility/concepts/typography)
 
 * Use a modern, [easy-to-read](https://uit.stanford.edu/accessibility/concepts/typography#readableFonts) font like Calibri, Bitstream Charter, Arial, Lato, or Helvetica.
-* Don't use grey-colored fonts since they're hard to read. Stick to black. Make sure to use a color that is printable in grey-scale. Be careful about using fonts that are too thin. Verify there is sufficient contrast with a white background.
-* [Don't justify text](https://uit.stanford.edu/accessibility/concepts/typography#justifyText) since it causes inconsistent spacing between words. <https://imgur.com/6eKsENw>
-* Don't italicize text since it can decrease the readability of your resume.
-* Don't bold keywords within your bullet points, it's distracting.
+* For fonts, stick to black. Grey-colored fonts are a no-no since they're hard to read. 
+* If you're writing your resume in Google Docs or Word, [don't justify text](https://uit.stanford.edu/accessibility/concepts/typography#justifyText). Text justification in LaTeX (which is enabled by default) works much better and is encouraged. <https://imgur.com/6eKsENw>
+* Don't italicize text - it can decrease the readability of your resume.
 * Italicization and bolding are only to be used if used _sparingly_. Excessive italicization and bolding decrease readability and ultimately contradict their purpose: **emphasis**.
 * _Italicization_, ALL-CAPS, and **bolding**, if used, should be used independently of each other.
 * Don't indent sections and bullet points. There's already indentation since the bullets themselves create an indent.
-* Separate your sections clearly for optimal readability and visual clarity
-  * Ensure there is sufficient and consistent white space between sections/subsections
-  * Ensure there is sufficient and consistent white space between each job/project
-  * Ensure there are sufficient vertical and horizontal margins (minimum 0.4 inches) <https://imgur.com/LC6AS8r>
+* Separate your sections clearly for optimal readability and visual clarity.
+  * Ensure there is sufficient and consistent white space between sections/subsections.
+  * Ensure there is sufficient and consistent white space between each job/project.
+  * Ensure there are sufficient vertical and horizontal margins. <https://imgur.com/LC6AS8r>
+* That being said, don't be afraid to reduce whitespace and margins if you find yourself crunching for room. Margins in particular can yield significant amounts of extra space since reducing them gives you more room per bullet.
 
 ---
 
 ## Dates
 
-* If currently working at a job or on a project, use the word **Present** instead of ~~**Current**, **Now**~~, or ~~**Ongoing**~~
-* If you choose to include months in addition to years, strictly use them and don't mix in ~~seasons~~ or ~~semesters~~ i.e. **March 2022**, not ~~Winter 2022~~
+* If currently working at a job or on a project, use the word **Present** instead of ~~**Current**, **Now**~~, or ~~**Ongoing**~~.
+* If you choose to include months in addition to years, strictly use them and don't mix in ~~seasons~~ or ~~semesters~~, i.e., **March 2022**, not ~~Winter 2022~~.
 * Specific days of the year are unnecessary i.e. **January ~~1~~, 2023**
 * Don't abbreviate years, i.e. **'23**. Denote the full year: **2023**
 * Don't abbreviate months using digits, i.e. **9/2013**
   * If you choose to abbreviate your months, [follow the proper standard](https://web.library.yale.edu/cataloging/months)
   * Jan, Feb, Mar, Apr, May, **June**, **July**, Aug, **Sept**, Oct, Nov, Dec
-  * Don't use periods when abbreviating months since they're unnecessary, i.e. **Sept** not **Sept.**
-* For date ranges, use en dashes (–), not hyphens (-) or the word "to"
-* Ensure there is a blank space before and after your en dashes i.e. **Mar 2012 – Mar 2022**, not **Mar 2012–Mar 2022**
+  * Don't use periods when abbreviating months since they're unnecessary, i.e., **Sept**, not **Sept.**
+* For date ranges, use en dashes (–), not hyphens (-) or the word "to".
+* Ensure there is a blank space before and after your en dashes, i.e., **Mar 2012 – Mar 2022**, not **Mar 2012–Mar 2022**.
 * [Right align your dates to the right margin:](https://www.google.com/url?q=https://webapps.stackexchange.com/questions/51121/how-do-you-left-align-and-right-align-items-on-the-same-line-in-a-google-documen&sa=D&source=docs&ust=1704054021378265&usg=AOvVaw12Cc4WkVvDQM0Lz6rdHRwc) <https://imgur.com/87E2vkp>
-* Your bullet points should not go further right than your dates <https://imgur.com/t1ZcrYR>
+* Your bullet points should not go further right than your dates. <https://imgur.com/t1ZcrYR>
 
 ---
 
@@ -171,11 +171,10 @@ In general,
   * name@gmail.com
   * github.com/username
   * myportfolio.com
-* Don't preface your email address with "Email: ". Simply display your email address i.e. name@gmail.com
-* Don't preface your GitHub URL with "GitHub: ". Simply display 'github.com/username'
-* Don't preface your personal website or portfolio URL with "Portfolio: ". Simply write out myportfolio.com for example
-* Don't include https://www. for your URLs
-* Don't underline, italicize, or color your email address/GitHub URL/portfolio URL/personal website URLs
+* Don't preface your email address with "Email: ". Simply display your email address, i.e., name@gmail.com.
+* Don't preface your GitHub URL with "GitHub: ". Simply display 'github.com/username'.
+* Don't preface your personal website or portfolio URL with "Portfolio: ". Simply write out myportfolio.com for example.
+* Don't include https://www. in your URLs.
 
 ---
 
@@ -195,7 +194,56 @@ This section should be named _Work Experience_ or simply _Experience_ not ~~"Pro
 
 If you're just graduating, focus more on showing a mastery of fundamental engineering skills first, then worry about the project management/leadership stuff if there is room left.
 
-Not only are management & leadership very different in the real world, but no department in their right mind will have a new grad run a department or project or anything more complex than picking up lunch for the team. They are looking for someone who can master basic engineering tasks in this specific discipline and can hold a basic conversation. Show them you can do that first, and then think about running the show down the line.
+Not only are management and leadership very different in the real world, but no department in their right mind will have a new grad run a department or project or anything more complex than picking up lunch for the team. They are looking for someone who can master basic engineering tasks in this specific discipline and can hold a basic conversation. Show them you can do that first, and then think about running the show down the line.
+
+---
+
+## Additional Discussion
+
+### Should You Use Present Tense For Current Experiences?
+
+Past experiences should always be written in past tense, but some people recommend writing current experiences (e.g. a job you're still working at) in present tense. We illustrate the problem with this with an example.
+
+Here are some bullets written in present tense:
+
+1. Develop and maintain web applications using JavaScript, React, and Node.js.
+1. Collaborate with cross-functional teams to design scalable software solutions.
+1. Optimize code for performance, successfully reducing load times by 30%.
+
+And here's the same bullets in past tense:
+
+1. Developed and maintained web applications using JavaScript, React, and Node.js.
+1. Collaborated with cross-functional teams to design scalable software solutions.
+1. Optimized code for performance, successfully reducing load times by 30%.
+
+It's evident that the first set of bullets is quite awkward.
+ Bullet #3 is especially egregious; it's a mess of past and present tense, as the concrete result (reducing load times by 30%) must necessarily be in the past, but the rules of present tense mean the action that caused said result (Optimize code) still has to be ongoing.
+
+ It should also be evident that the second set of bullets still makes perfect sense.
+
+ Hence, we strongly recommend writing your entire resume in past-tense.
+
+### Should You Bolding/Highlight Keywords?
+
+Some people choose to highlight certain words on their resume by bolding certain key words or phrases. There are pros and cons to this approach.
+
+Pros:
+
+* Highlighting words can draw attention to relevant parts of your resume. This can be especially valuable given the limited time most readers will spend actually looking your resume.
+
+Cons:
+
+* If done too much, highlighting can come across as tacky or annoying.
+* Highlighting can cause experiences you have which don't involve a lot of technologies stand out in a negative way.
+* Highlighting can encourage readers to skip relevant experience. If a hiring manager is familiar with Java, they might opt to skip over experiences which don't mention Java directly by name. 
+
+
+If you do decide to highlight, keep the following principles in mind:
+
+* Don't overdo it. Bold is generally best. Anything more is almost always too much.
+* Beware of imbalances. Highlighted keywords should throughout your resume, and not overly clustered in just one or two experiences.
+* Maybe don't highlight numbers. Highlighting numbers can come across as tacky and generally doesn't add much value.
+
 
 ---
 
@@ -209,16 +257,20 @@ Not only are management & leadership very different in the real world, but no de
 * Don't include awards/scholarships unless they're extremely impressive, e.g., Rhodes Scholar, Fulbright Scholar.
 * Consider whether to include programs like honors and athletics.
 * If you have multiple degrees, write them in reverse chronological order, with the newest degree at the top.
-* Write your degree as: **Bachelor ~~'s~~ of Science** and **Master ~~'s~~ of Science**, or, alternatively, as **BS in \<degree>**.
+* Write your degree as either, e.g., **Bachelor of Science in \<degree\>** or **BS in \<degree\>**. 
+  * Make sure to write **Bachelor**, not **Bachelor's** or **Bachelors**.
 
+--- 
 
 ## Additional Discussion
 
-### Should you include courses?
+### Should You Include Courses?
 
 Courses are generally seen as low value since everyone tends to take the same ones as a part of their major. The general advice is to only include them if you're struggling to fill the space/don't have anything better to put. You might also consider adding them if you're an underclassman who is otherwise ahead in your degree plan.
 
-### Should you include your GPA?
+Courses can also alternatively be added to your skills section.
+
+### Should You Include Your GPA?
 
 The general advice is to include your GPA if it's above a ~3.4. If you do decide to omit it, be aware that readers might  assume it's a 3.0 or worse regardless.
 
@@ -226,7 +278,7 @@ If you do include it, only put a maximum of two decimals - three is overkill.
 
 Once you start your first full time job, consider removing it unless it's very impressive.
 
-### Should you include your school's location?
+### Should You Include Your School's Location?
 
 If you're international, consider omitting it in order to cut down on bias against foreigners. You may also wish to omit it if it's already evident from the title or already well known, e.g., UCLA or MIT. 
 
@@ -234,7 +286,9 @@ If you're international, consider omitting it in order to cut down on bias again
 
 # Skills
 
-shoutout to u/0ffkilter
+Shoutout to u/0ffkilter
+
+--- 
 
 ## Objective
 
@@ -242,19 +296,22 @@ The purpose of the skills section is to highlight in a few words what technical 
 
 This section should simply be named **Skills**, not ~~"Technical Skills", "Relevant Skills”, etc~~
 
+---
 
-## You Should:
+### You Should:
 
 * Include languages you've used thoroughly and could theoretically interview in.
 * Include technologies (frameworks, tools, and programs) that you've used previously.
 * Repeat things that you use in your bullet points.  If you have Java in your skills, your bullet points in job descriptions should include Java, and vice versa.
 
-## You Should Not:
+--- 
+
+### You Should Not:
 
 * Include soft skills  - don't include things like "teamwork", "leadership", and the like.  Demonstrate via your bullet points and descriptions that you've done these things, not just by listing them out.
 * Include skills that are taken for granted and are assumed (typing, Microsoft Word, IDEs, etc - some of these are fine for other types of jobs, but are generally not useful for engineering)
    * Generally speaking, do not include:
-      * Code Repository Websites (the skill itself is fine - use "Git" or "SVN", not "GitHub" or "Bitbucket" or "GitLab"
+      * Code Repository Websites (the skill itself is fine - use "Git" or "SVN", not "GitHub" or "Bitbucket" or "GitLab")
       * Operating Systems
       * IDEs or other word editors (VS Code, LaTeX, vim, etc)
 
@@ -262,7 +319,7 @@ This section should simply be named **Skills**, not ~~"Technical Skills", "Relev
 
 Your formatting should be easy to read, easy to digest, and convey what's important and what's simply "there".  Each skill should listed should feel important, and not like fluff.
 
-## You Should:
+### You Should:
 
 * Use 3 lines or less, in a single column format.
 * Order your skills from most important to least important.
@@ -276,22 +333,27 @@ Your formatting should be easy to read, easy to digest, and convey what's import
   * Separate similar skills if they are functionally different - 
      * Use "C, C++" not "C/C++".  Each skill should be separate, if necessary.  [see more here](https://www.reddit.com/r/EngineeringResumes/wiki/typo)
 
-## You Should Not:
+### You Should Not:
 
 * Bold random words or use unnecessary formatting.  The _only_ necessary formatting is if the name of the skill is expressly formatted in a way.
 * Use any descriptor when describing your skills.  Do not say "Expert in _ " or "Professional in _".  List the _skill_ only, and use your bullet points to demonstrate your professional abilities.
 * Use multiple columns.  One line, one column per group.  Listing skills vertically takes up too much space.  The highlight of your resume is in the words, and your skill bullet points are only here to get the point across and to be a reference of sorts.  
 
+## Additional Discussion
 
-## Should I include random hobbies and other things?
+### Should You Include Hobbies and Other Miscellaneous Interests?
 
 * No.  You may hear about the stories where the interviewer and interviewee share a hobby or passion project on the side unrelated to the job.  That may work every now and then, and it is _acceptable_ (sometimes) to put these on your resume, but the skills section is not the correct area.  You should include that in a subsection, and only if there is nothing better to put on your resume.  
 
-## Should I include skills that I'm not super comfortable with, if I'm new to the industry?
+### Should You Include skills That You're Not Super Comfortable With?
 
-* This is a judgement call.  An inexperienced engineer that lists a few skills they've really honed in on can often look better than a new engineer with 10+ skills they've clearly never used in industry.  Find a balance, and try to differentiate what you've used and are experienced with in, and what you've just "touched".
+* This is a judgement call.  An inexperienced engineer that lists a few skills they've really honed in on can often look better than a new engineer with 10+ skills they've clearly never used in industry. On the other hand, you don't want to inadvertently cause yourself to get filtered out by ATS. Find a balance.
 
----
+### Should You Try To Quantify Your Level of Confidence/Experience?
+
+Some people like to try and communicate their relative experience/familiarity with various skills by indicating their confidence level or familiarity with each one on their resume. For example, a software developer might put something like **Python (8/10), C++ (6/10), C (5/10)**. 
+
+We generally don't recommend doing this since it can put you at an inherent disadvantage in comparison with candidates who don't do this. If a job really needs to know, they can always ask directly in a pre-screening phone call/actual interview, where you'll have an actual chance to justify yourself. 
 
 # Projects
 
@@ -305,7 +367,7 @@ This section should be named **Projects**, not ~~Academic/Engineering/Notable/Pe
 * Each project should consist of bullet points, ~~not paragraphs~~
 * Order projects and bullet points based on relevance to the specific job and general impressiveness. Put your best stuff first and grab the reader's attention!
 
-If you want your projects to stand out, they should be real projects, not mandatory school projects or trivial tutorial projects found online. Something that someone uses to solve a problem. Something that has users (can be just you, as long as you use it often) and is actively maintained and isn't just rotting in a GitHub repo, never to see a PR for the rest of its life. You can always join student clubs like SAE/AIAA competitive teams, and rocketry teams, or even be a mentor for an FRC/FTC team.
+If you want your projects to stand out, they should be real projects, not mandatory school projects or trivial tutorial projects found online. Something that someone uses to solve a problem. Something that has users (can be just you, as long as you use it often) and is actively maintained and isn't just rotting in a GitHub repo, never to see a PR for the rest of its life. You can always join student clubs like SAE/AIAA competitive teams, and rocketry teams, or even be a mentor for a [Middle School or High School FIRST Robotics team](https://www.firstinspires.org/team-event-search#type=teams&sort=name&programs=FTC,FRC).
 
 ---
 
@@ -525,31 +587,6 @@ For a little less silly example, I once worked at a company that made carbon fib
 \*Not a lawyer (shh) so I can’t help you if you get into a Tom Clancy situation.
 
 \*\*I didn’t actually do this, it’s an example. Sure would be cool though.
-
----
-
-# Additional Discussion
-
-## Bolding/Highlighting Keywords
-
-Some people choose to highlight certain words on their resume by bolding certain key words or phrases. There are pros and cons to this approach.
-
-Pros:
-
-* Highlighting words can draw attention to relevant parts of your resume. This can be especially valuable given the limited time most readers will spend actually looking your resume.
-
-Cons:
-
-* If done too much, highlighting can come across as tacky or annoying.
-* Highlighting can cause experiences you have which don't involve a lot of technologies stand out in a negative way.
-* Highlighting can encourage readers to skip relevant experience. If a hiring manager is familiar with Java, they might opt to skip over experiences which don't mention Java directly by name. 
-
-
-If you do decide to highlight, keep the following principles in mind:
-
-* Don't overdo it. Bold is generally best. Anything more is almost always too much.
-* Beware of imbalances. Highlighted keywords should throughout your resume, and not overly clustered in just one or two experiences.
-* Maybe don't highlight numbers. Highlighting numbers can come across as tacky and generally doesn't add much value.
 
 ---
 
