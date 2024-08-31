@@ -543,6 +543,25 @@ For a little less silly example, I once worked at a company that made carbon fib
 
 ---
 
+# Applying
+
+Once your resume is ready, you'll want to start actually applying for jobs.  After all, a resume you never give to anybody is just a piece of paper. 
+
+The most important thing to think about when applying is the trade-off between quality vs. quantity. Time spent tailoring an application for a specific position equals less time spent applying to more positions. Of course, this isn't necessarily a direct relationship. Shotgunning 1,000 bad applications probably isn't going to be 20 times more effective than making 50 tailored applications. On the other hand, 100 mediocre applications is probably better than 5 tailored applications.
+
+## Cover Letters
+
+A worrying amount of the people who recommend cover letters also admit they don't actually read them. Cover letters are mostly boilerplate, and reviewers are busy people with hundreds of resumes to review. Most people simply don't have the bandwidth to also read extra documents that rarely yield any extra information they couldn't figure out from your resume. That being said, the mere act of having a cover letter could help you stand out (for the right type of reviewer), but at the end of the day, experience is always going to be more important than whatever fluff you put alongside your resume. 
+
+## Career Fairs
+
+Depending on your school, career fairs can range from being a useful resource to a complete waste of time. It's important to realize that companies only attend career fairs to drum up interest and inform candidates that they're hiring, while referring interested candidates to their regular online application process.
+
+That being said, if you do decide to go to a fair, make sure to go with a plan. Decide in advance which companies you'd like to talk to, and focus on those companies specifically.
+Many career fairs - especially those at larger Universities - will have long lines both to get in the door and to talk to individual companies. Waiting in line for 2+ hours just to talk to a company that's only giving out information or not hiring your major is a waste of time.
+
+---
+
 # Additional Resources
 
 ## General
