@@ -80,7 +80,6 @@ Your resume should be:
   * [5 ATS Myths, Debunked](https://www.lever.co/blog/applicant-tracking-system-myths/)
   * [Debunking Myths: The Truth About Applicant Tracking Systems](https://earnbetter.com/blog/debunking-myths-the-truth-about-applicant-tracking-systems-ats/)
 
----
 ## Recommended Templates
 
 * [Google Docs Template](https://old.reddit.com/r/EngineeringResumes/wiki/templates#wiki_google_docs)
@@ -90,8 +89,6 @@ Your resume should be:
 * [LaTeX Template](https://old.reddit.com/r/EngineeringResumes/wiki/templates#wiki_latex) 
 
   Image: <https://imgur.com/LC6AS8r>
-
----
 
 ## [Accessibility](https://uit.stanford.edu/accessibility/concepts/typography)
 
@@ -108,8 +105,6 @@ Your resume should be:
   * Ensure there are sufficient vertical and horizontal margins. <https://imgur.com/LC6AS8r>
 * That being said, don't be afraid to reduce whitespace and margins if you find yourself crunching for room. Margins in particular can yield significant amounts of extra space since reducing them gives you more room per bullet.
 
----
-
 ## Dates
 
 * If currently working at a job or on a project, use the word **Present** instead of ~~**Current**, **Now**~~, or ~~**Ongoing**~~.
@@ -124,8 +119,6 @@ Your resume should be:
 * Ensure there is a blank space before and after your en dashes, i.e., **Mar 2012 – Mar 2022**, not **Mar 2012–Mar 2022**.
 * [Right align your dates to the right margin:](https://www.google.com/url?q=https://webapps.stackexchange.com/questions/51121/how-do-you-left-align-and-right-align-items-on-the-same-line-in-a-google-documen&sa=D&source=docs&ust=1704054021378265&usg=AOvVaw12Cc4WkVvDQM0Lz6rdHRwc) <https://imgur.com/87E2vkp>
 * Your bullet points should not go further right than your dates. <https://imgur.com/t1ZcrYR>
-
----
 
 ## Section Order
 
@@ -144,8 +137,6 @@ In general,
 
 * Do **not** include a summary/profile unless you're a senior/staff engineer or above, making a career change, or addressing an unemployment gap/returning to the workforce
 * Do **not** include a references section
-
----
 
 ## Contact Information
 
@@ -176,8 +167,6 @@ In general,
 * Don't preface your personal website or portfolio URL with "Portfolio: ". Simply write out myportfolio.com for example.
 * Don't include https://www. in your URLs.
 
----
-
 ## Work Experience
 
 This section should be named _Work Experience_ or simply _Experience_ not ~~"Professional Experience", "Selected Experience", "Employment History", "Employment" or "Job History"~~
@@ -195,8 +184,6 @@ This section should be named _Work Experience_ or simply _Experience_ not ~~"Pro
 If you're just graduating, focus more on showing a mastery of fundamental engineering skills first, then worry about the project management/leadership stuff if there is room left.
 
 Not only are management and leadership very different in the real world, but no department in their right mind will have a new grad run a department or project or anything more complex than picking up lunch for the team. They are looking for someone who can master basic engineering tasks in this specific discipline and can hold a basic conversation. Show them you can do that first, and then think about running the show down the line.
-
----
 
 ## Additional Discussion
 
@@ -260,8 +247,6 @@ If you do decide to highlight, keep the following principles in mind:
 * Write your degree as either, e.g., **Bachelor of Science in \<degree\>** or **BS in \<degree\>**. 
   * Make sure to write **Bachelor**, not **Bachelor's** or **Bachelors**.
 
---- 
-
 ## Additional Discussion
 
 ### Should You Include Courses?
@@ -288,15 +273,11 @@ If you're international, consider omitting it in order to cut down on bias again
 
 Shoutout to u/0ffkilter
 
---- 
-
 ## Objective
 
 The purpose of the skills section is to highlight in a few words what technical skills you can bring to the job.  Ideally, these match the job description.  They can also include other technical skills that are related, but perhaps not necessarily in the job description.  If you are applying to a job that's in Java, saying you also know C++ can be useful.  This is not a section to spew every buzzword on every technology you've ever touched.  Find a balance between enough skills (to show you can [wear many hats](https://www.merriam-webster.com/dictionary/wear%20many%20hats)) while not showing too many so that the reader makes it seem like none of them are important.  
 
 This section should simply be named **Skills**, not ~~"Technical Skills", "Relevant Skills”, etc~~
-
----
 
 ### You Should:
 
@@ -304,16 +285,14 @@ This section should simply be named **Skills**, not ~~"Technical Skills", "Relev
 * Include technologies (frameworks, tools, and programs) that you've used previously.
 * Repeat things that you use in your bullet points.  If you have Java in your skills, your bullet points in job descriptions should include Java, and vice versa.
 
---- 
-
 ### You Should Not:
 
 * Include soft skills  - don't include things like "teamwork", "leadership", and the like.  Demonstrate via your bullet points and descriptions that you've done these things, not just by listing them out.
 * Include skills that are taken for granted and are assumed (typing, Microsoft Word, IDEs, etc - some of these are fine for other types of jobs, but are generally not useful for engineering)
    * Generally speaking, do not include:
-      * Code Repository Websites (the skill itself is fine - use "Git" or "SVN", not "GitHub" or "Bitbucket" or "GitLab")
+      * Code Repository Websites (the skill itself is fine - use "Git" or "SVN", not "GitHub", "Bitbucket" or "GitLab")
       * Operating Systems
-      * IDEs or other word editors (VS Code, LaTeX, vim, etc)
+      * IDEs (Visual Studio, VS Code, IntelliJ)
 
 ## Formatting:
 
@@ -355,6 +334,8 @@ Some people like to try and communicate their relative experience/familiarity wi
 
 We generally don't recommend doing this since it can put you at an inherent disadvantage in comparison with candidates who don't do this. If a job really needs to know, they can always ask directly in a pre-screening phone call/actual interview, where you'll have an actual chance to justify yourself. 
 
+--- 
+
 # Projects
 
 This section should be named **Projects**, not ~~Academic/Engineering/Notable/Personal/Relevant/Selected/Technical Projects~~
@@ -369,8 +350,6 @@ This section should be named **Projects**, not ~~Academic/Engineering/Notable/Pe
 
 If you want your projects to stand out, they should be real projects, not mandatory school projects or trivial tutorial projects found online. Something that someone uses to solve a problem. Something that has users (can be just you, as long as you use it often) and is actively maintained and isn't just rotting in a GitHub repo, never to see a PR for the rest of its life. You can always join student clubs like SAE/AIAA competitive teams, and rocketry teams, or even be a mentor for a [Middle School or High School FIRST Robotics team](https://www.firstinspires.org/team-event-search#type=teams&sort=name&programs=FTC,FRC).
 
----
-
 ## Portfolios
 
 Include links to GitHub profiles and portfolio websites only if they are up-to-date. If your pinned repositories lack READMEs or if your portfolio hasn't been updated in a significant time frame, it's advisable to save space and omit them from your resume. Contrary to common belief, these links are not obligatory, especially when their contents do not contribute meaningful value to your application.
@@ -383,14 +362,10 @@ Include links to GitHub profiles and portfolio websites only if they are up-to-d
   * ~~<https://www>.~~ github.com/bob
   * ~~<https://www>.~~ portfolio.com
 
----
-
 ## Bias
 
 * Don't include personal details to your resume that can lead to negative bias during the resume screen
 * This includes age/gender/children/nationality/ethnicity/marriage status/religion/political views
-
----
 
 ## Senior Engineers and Above (10+ YoE)
 
@@ -402,16 +377,12 @@ Include links to GitHub profiles and portfolio websites only if they are up-to-d
 * Make your earlier work experiences more concise
 * Move your education section to the bottom of your resume
 
----
-
 ## Career Changers
 
 * Include a brief summary (2 sentences) explaining that you’ve changed careers and your motivation. It’s helpful for recruiters and hiring managers to have the context that they’re reading the resume of someone who has recently changed into software development or another field
 * Link to working projects and source code
 * Be concise in summarizing past work experience
 * Have a short resume. Try to fit on 1 page
-
----
 
 ## Grammar, Punctuation, and Spelling
 
@@ -421,8 +392,6 @@ Include links to GitHub profiles and portfolio websites only if they are up-to-d
 * Do a grammar check, not just a spell check. This includes punctuation: only capitalize [proper nouns](https://www.grammarly.com/blog/proper-nouns/)
 * Use free spell checking tools like [Grammarly](http://app.grammarly.com), [Hemingway Editor](http://hemingwayapp.com), [LanguageTool](https://languagetool.org/), and [Quillbot](https://quillbot.com/)
 * Ask friends and family to proofread your resume. A fresh set of eyes never hurts.
-
----
 
 ## u/emnm47's How To Get A Job™ Speech
 
@@ -462,8 +431,6 @@ Only a few people can draw interest from resumes alone. That’s when you need t
 2. Highlight technical challenges you faced and overcame
 3. Highlight the impact of your work
 
----
-
 ## General Rules
 
 * Bullet points should be 1-2 lines long. Use [Quillbot](https://quillbot.com/) and [LanguageTool](https://languagetool.org/paraphrasing-tool) to help you [paraphrase and shorten your bullets](https://www.youtube.com/watch?v=VvPaEsuz-tY)
@@ -482,8 +449,6 @@ Only a few people can draw interest from resumes alone. That’s when you need t
   * B-adverbs: ~~creatively, diligently, meticulously, strategically, successfully, independently, innovatively, excellently, expertly~~
 * Use digits instead of spelling out numbers: **8** ~~**eight**~~
 
----
-
 ## Action Verbs
 
 * Each bullet should begin with a **strong, past-tense action verb:**  
@@ -496,8 +461,6 @@ https://web.archive.org/web/20240515003325/https://www.engineering.cornell.edu/s
   * [Don't use the verb **utilize**. 9/10 times that word will be attached to some disgusting Gordian knot of a sentence that says in 20 words what could be said in 10.](https://scientistseessquirrel.wordpress.com/2019/04/16/for-the-love-of-all-that-is-holy-stop-writing-utilize/)
   * **superfluous/awkward/unnecessarily complex verbs:** amplified, conceptualized, crafted, elevated, employed, engaged, engineered, enhanced, ensured, fostered, headed, honed, innovated, mastered, orchestrated, perfected, pioneered, revolutionized, spearheaded, transformed
   * **frequently misused verbs:** [leverage](https://www.steverrobbins.com/articles/leverage/), [enhance](https://english.stackexchange.com/questions/105465/what-differences-are-there-between-to-enhance-and-to-improve), [utilize](https://scientistseessquirrel.wordpress.com/2019/04/23/limited-use-cases-for-utilize/)
-
----
 
 ## Each bullet point should follow STAR, XYZ, or CAR
 
@@ -518,13 +481,9 @@ https://web.archive.org/web/20240515003325/https://www.engineering.cornell.edu/s
 
 * If you're able to quantify your achievements/results, move the metrics towards the start of each bullet
 
----
-
 ## [Sample Bullet Points](https://www.reddit.com/r/EngineeringResumes/w/sample-bullet-points/)
 
 ## [Ultimate Guide to Writing Software Engineer Bullet Points](https://archive.ph/Xmdqt)
-
----
 
 ## Having trouble coming up with content for your bullet points? Ask yourself the following questions:
 
@@ -546,8 +505,6 @@ https://web.archive.org/web/20240515003325/https://www.engineering.cornell.edu/s
 * Was I successful with the design/solution/project? Did it actually work the way I wanted it to?
 * What went wrong? Did I learn anything from the experience?
 
----
-
 ## Got Writer's Block from Looking at STAR/CAR/XYZ?
 
 Here’s a fun exercise I learned from my last supervisor. At the start of every project, you and/or a task lead likely sat down and established the goals you had to meet, right? Ideally, these goals were set up in such a way that you could meet them and solid enough that you had to exert effort to make them happen.
@@ -560,8 +517,6 @@ Don't worry about writing at length. This is a planning exercise. Just get it al
 
 When you're finally satisfied, start paring it down to meet space & content requirements.
 
----
-
 ## Why Integration Matters
 
 Don't throw a parts list at the reader. It matters less what specific components and subcomponents you used and more how you integrated all this into whatever your project was aiming to accomplish.
@@ -569,8 +524,6 @@ Don't throw a parts list at the reader. It matters less what specific components
 I'm not saying "yeah I made a machine that did task X" is sufficient, but just telling the reader your widget uses a Raspberry Pi and a stepper motor to do task X isn't helpful either.
 
 How did your software interface with the stepper motors to complete task X to a desired level of precision? That's the kind of stuff that stands out and shows the reader your technical abilities.
-
----
 
 ## Handling Sensitive Content (or u/graytotoro’s Suggestions on How to Not Get Fired And/Or Sued)
 
